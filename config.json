@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdalidate",
+        "uuid": 5633810,
+        "checksum": "vxw5f"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
